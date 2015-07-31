@@ -10646,9 +10646,16 @@ box-shadow: none;
 /*alerts*/
 
 .alert-warning {
+position:fixed;
 background-color: #de9293;
 border-color: #ad6061;
 color: #222;
+height: 100px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+width: 100%;
+text-align: center;
 }
 
 .alert {
