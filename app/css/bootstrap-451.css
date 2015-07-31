@@ -10775,6 +10775,1060 @@ font-weight: bold;
 }
 
 
+/*break point*/
+
+@media only screen and (max-width : 1200px) {
+
+	.container-view {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+	.header {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	/*insert*/
+	
+    .panel-primary .panel-heading .panel-title  {
+        background-color: #ccc;
+        
+    }
+    .navbar-default .navbar-nav .open > a  {
+        background-color: #0e0e0e;
+    }
+	
+
+/*left panel nav */
+
+    .panel-nav a {
+        text-decoration: none;
+    }
+
+    .panel-nav a:hover {
+        text-decoration: none;
+        color: #666;
+        font-weight: bolder;
+    }
+
+.navbar-default  {
+    background-color: #0e0e0e;
+}
+
+.navbar .container .navbar-nav.pull-left li.fadeInLeft a i, .navbar .container-view .navbar-nav.pull-left li.fadeInLeft a i {
+    color: #fff;
+}
+
+
+.navbar-default .navbar-nav > .active > a:link {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #3a3b3b;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:focus{
+    background-color: #3a3b3b;
+}
+
+.container .navbar-nav li a { 
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.container .navbar-nav li a:hover { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:active { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:focus { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        background-color: #3a3b3b;
+}
+
+/*button*/
+
+.btn-primary  {
+    background-color: #0e0e0e;
+}
+
+.btn-primary:hover  {
+    background-color: #3a3b3b;
+}
+
+/*submit*/
+
+.btn-success  {
+    background-color: #555;
+    border-color: #777;
+}
+.btn-success, .btn-success:hover  {
+    color: #FFFFFF;
+}
+
+.btn-success:hover  {
+    background-color: #222;
+    border-color: #555;
+}
+
+.btn-success:focus  {
+    background-color: #555;
+    border-color: #777;
+}
+
+/*error*/
+
+.btn-danger  {
+    border-color: #F00;
+}
+.btn-danger  {
+    background-color: #F00;
+}
+
+.btn-danger:hover {
+    background-color: #555;
+    border-color: #555;
+}
+
+/* cost */
+.text-success {
+    color: #222;
+}
+
+/* Checkout Button -link- */
+
+.btn-info {
+    background-color: #0e0e0e;
+    border-color: #0e0e0e;
+    color: #ffffff;
+}
+
+.btn-info:hover {
+    background-color: #3a3b3b;
+    border-color: #3a3b3b;
+    color: #ffffff;
+}
+
+/* misc and tidbits */
+
+.badge {
+    background-color: #3a3b3b;
+    color: #fff;
+}
+
+.btn-success .badge {
+    color: #222;
+}
+
+.navbar .container .navbar-nav li.active .fa-caret-down, .navbar .container-view .navbar-nav li.active .fa-caret-down {
+    color: #3a3b3b;
+}
+
+/*checkout--cart*/
+
+.text-info {
+    color: #343434;
+}
+
+.text-success {
+color: #343434;
+}
+
+.view-form-icon .quantity div input {
+    border-color: #dddddd;
+    color: #343434;
+    box-shadow: none;
+}
+
+.navbar-fixed-bottom .btn {
+    background-color: #666;
+}
+
+.navbar-fixed-bottom .btn-success {
+    background-color: #555;
+}
+
+.navbar-fixed-bottom .btn:hover {
+    background-color: #333;
+}
+
+/*alerts*/
+
+.alert-warning {
+background-color: #de9293;
+border-color: #ad6061;
+color: #222;
+}
+
+.alert {
+border: 1px solid transparent;
+}
+
+
+.product-variants a:hover {
+    background-color: #999;
+
+
+
+
+
+
+}
+
+@media only screen and (max-width : 979px) {
+
+	.container-view {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+	.header {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	/*insert*/
+	
+    .panel-primary .panel-heading .panel-title  {
+        background-color: #ccc;
+        
+    }
+    .navbar-default .navbar-nav .open > a  {
+        background-color: #0e0e0e;
+    }
+	
+
+/*left panel nav */
+
+    .panel-nav a {
+        text-decoration: none;
+    }
+
+    .panel-nav a:hover {
+        text-decoration: none;
+        color: #666;
+        font-weight: bolder;
+    }
+
+.navbar-default  {
+    background-color: #0e0e0e;
+}
+
+.navbar .container .navbar-nav.pull-left li.fadeInLeft a i, .navbar .container-view .navbar-nav.pull-left li.fadeInLeft a i {
+    color: #fff;
+}
+
+
+.navbar-default .navbar-nav > .active > a:link {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #3a3b3b;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:focus{
+    background-color: #3a3b3b;
+}
+
+.container .navbar-nav li a { 
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.container .navbar-nav li a:hover { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:active { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:focus { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        background-color: #3a3b3b;
+}
+
+/*button*/
+
+.btn-primary  {
+    background-color: #0e0e0e;
+}
+
+.btn-primary:hover  {
+    background-color: #3a3b3b;
+}
+
+/*submit*/
+
+.btn-success  {
+    background-color: #555;
+    border-color: #777;
+}
+.btn-success, .btn-success:hover  {
+    color: #FFFFFF;
+}
+
+.btn-success:hover  {
+    background-color: #222;
+    border-color: #555;
+}
+
+.btn-success:focus  {
+    background-color: #555;
+    border-color: #777;
+}
+
+/*error*/
+
+.btn-danger  {
+    border-color: #F00;
+}
+.btn-danger  {
+    background-color: #F00;
+}
+
+.btn-danger:hover {
+    background-color: #555;
+    border-color: #555;
+}
+
+/* cost */
+.text-success {
+    color: #222;
+}
+
+/* Checkout Button -link- */
+
+.btn-info {
+    background-color: #0e0e0e;
+    border-color: #0e0e0e;
+    color: #ffffff;
+}
+
+.btn-info:hover {
+    background-color: #3a3b3b;
+    border-color: #3a3b3b;
+    color: #ffffff;
+}
+
+/* misc and tidbits */
+
+.badge {
+    background-color: #3a3b3b;
+    color: #fff;
+}
+
+.btn-success .badge {
+    color: #222;
+}
+
+.navbar .container .navbar-nav li.active .fa-caret-down, .navbar .container-view .navbar-nav li.active .fa-caret-down {
+    color: #3a3b3b;
+}
+
+/*checkout--cart*/
+
+.text-info {
+    color: #343434;
+}
+
+.text-success {
+color: #343434;
+}
+
+.view-form-icon .quantity div input {
+    border-color: #dddddd;
+    color: #343434;
+    box-shadow: none;
+}
+
+.navbar-fixed-bottom .btn {
+    background-color: #666;
+}
+
+.navbar-fixed-bottom .btn-success {
+    background-color: #555;
+}
+
+.navbar-fixed-bottom .btn:hover {
+    background-color: #333;
+}
+
+/*alerts*/
+
+.alert-warning {
+background-color: #de9293;
+border-color: #ad6061;
+color: #222;
+}
+
+.alert {
+border: 1px solid transparent;
+}
+
+
+.product-variants a:hover {
+    background-color: #999;
+
+
+
+
+
+
+}
+
+@media only screen and (max-width : 767px) {
+
+	.container-view {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+	.header {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	/*insert*/
+	
+    .panel-primary .panel-heading .panel-title  {
+        background-color: #ccc;
+        
+    }
+    .navbar-default .navbar-nav .open > a  {
+        background-color: #0e0e0e;
+    }
+	
+
+/*left panel nav */
+
+    .panel-nav a {
+        text-decoration: none;
+    }
+
+    .panel-nav a:hover {
+        text-decoration: none;
+        color: #666;
+        font-weight: bolder;
+    }
+
+.navbar-default  {
+    background-color: #0e0e0e;
+}
+
+.navbar .container .navbar-nav.pull-left li.fadeInLeft a i, .navbar .container-view .navbar-nav.pull-left li.fadeInLeft a i {
+    color: #fff;
+}
+
+
+.navbar-default .navbar-nav > .active > a:link {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #3a3b3b;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:focus{
+    background-color: #3a3b3b;
+}
+
+.container .navbar-nav li a { 
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.container .navbar-nav li a:hover { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:active { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:focus { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        background-color: #3a3b3b;
+}
+
+/*button*/
+
+.btn-primary  {
+    background-color: #0e0e0e;
+}
+
+.btn-primary:hover  {
+    background-color: #3a3b3b;
+}
+
+/*submit*/
+
+.btn-success  {
+    background-color: #555;
+    border-color: #777;
+}
+.btn-success, .btn-success:hover  {
+    color: #FFFFFF;
+}
+
+.btn-success:hover  {
+    background-color: #222;
+    border-color: #555;
+}
+
+.btn-success:focus  {
+    background-color: #555;
+    border-color: #777;
+}
+
+/*error*/
+
+.btn-danger  {
+    border-color: #F00;
+}
+.btn-danger  {
+    background-color: #F00;
+}
+
+.btn-danger:hover {
+    background-color: #555;
+    border-color: #555;
+}
+
+/* cost */
+.text-success {
+    color: #222;
+}
+
+/* Checkout Button -link- */
+
+.btn-info {
+    background-color: #0e0e0e;
+    border-color: #0e0e0e;
+    color: #ffffff;
+}
+
+.btn-info:hover {
+    background-color: #3a3b3b;
+    border-color: #3a3b3b;
+    color: #ffffff;
+}
+
+/* misc and tidbits */
+
+.badge {
+    background-color: #3a3b3b;
+    color: #fff;
+}
+
+.btn-success .badge {
+    color: #222;
+}
+
+.navbar .container .navbar-nav li.active .fa-caret-down, .navbar .container-view .navbar-nav li.active .fa-caret-down {
+    color: #3a3b3b;
+}
+
+/*checkout--cart*/
+
+.text-info {
+    color: #343434;
+}
+
+.text-success {
+color: #343434;
+}
+
+.view-form-icon .quantity div input {
+    border-color: #dddddd;
+    color: #343434;
+    box-shadow: none;
+}
+
+.navbar-fixed-bottom .btn {
+    background-color: #666;
+}
+
+.navbar-fixed-bottom .btn-success {
+    background-color: #555;
+}
+
+.navbar-fixed-bottom .btn:hover {
+    background-color: #333;
+}
+
+/*alerts*/
+
+.alert-warning {
+background-color: #de9293;
+border-color: #ad6061;
+color: #222;
+}
+
+.alert {
+border: 1px solid transparent;
+}
+
+
+.product-variants a:hover {
+    background-color: #999;
+
+
+
+
+
+
+}
+
+@media only screen and (max-width : 480px) {
+
+	.container-view {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+	.header {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	/*insert*/
+	
+    .panel-primary .panel-heading .panel-title  {
+        background-color: #ccc;
+        
+    }
+    .navbar-default .navbar-nav .open > a  {
+        background-color: #0e0e0e;
+    }
+	
+
+/*left panel nav */
+
+    .panel-nav a {
+        text-decoration: none;
+    }
+
+    .panel-nav a:hover {
+        text-decoration: none;
+        color: #666;
+        font-weight: bolder;
+    }
+
+.navbar-default  {
+    background-color: #0e0e0e;
+}
+
+.navbar .container .navbar-nav.pull-left li.fadeInLeft a i, .navbar .container-view .navbar-nav.pull-left li.fadeInLeft a i {
+    color: #fff;
+}
+
+
+.navbar-default .navbar-nav > .active > a:link {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #3a3b3b;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:focus{
+    background-color: #3a3b3b;
+}
+
+.container .navbar-nav li a { 
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.container .navbar-nav li a:hover { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:active { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:focus { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        background-color: #3a3b3b;
+}
+
+/*button*/
+
+.btn-primary  {
+    background-color: #0e0e0e;
+}
+
+.btn-primary:hover  {
+    background-color: #3a3b3b;
+}
+
+/*submit*/
+
+.btn-success  {
+    background-color: #555;
+    border-color: #777;
+}
+.btn-success, .btn-success:hover  {
+    color: #FFFFFF;
+}
+
+.btn-success:hover  {
+    background-color: #222;
+    border-color: #555;
+}
+
+.btn-success:focus  {
+    background-color: #555;
+    border-color: #777;
+}
+
+/*error*/
+
+.btn-danger  {
+    border-color: #F00;
+}
+.btn-danger  {
+    background-color: #F00;
+}
+
+.btn-danger:hover {
+    background-color: #555;
+    border-color: #555;
+}
+
+/* cost */
+.text-success {
+    color: #222;
+}
+
+/* Checkout Button -link- */
+
+.btn-info {
+    background-color: #0e0e0e;
+    border-color: #0e0e0e;
+    color: #ffffff;
+}
+
+.btn-info:hover {
+    background-color: #3a3b3b;
+    border-color: #3a3b3b;
+    color: #ffffff;
+}
+
+/* misc and tidbits */
+
+.badge {
+    background-color: #3a3b3b;
+    color: #fff;
+}
+
+.btn-success .badge {
+    color: #222;
+}
+
+.navbar .container .navbar-nav li.active .fa-caret-down, .navbar .container-view .navbar-nav li.active .fa-caret-down {
+    color: #3a3b3b;
+}
+
+/*checkout--cart*/
+
+.text-info {
+    color: #343434;
+}
+
+.text-success {
+color: #343434;
+}
+
+.view-form-icon .quantity div input {
+    border-color: #dddddd;
+    color: #343434;
+    box-shadow: none;
+}
+
+.navbar-fixed-bottom .btn {
+    background-color: #666;
+}
+
+.navbar-fixed-bottom .btn-success {
+    background-color: #555;
+}
+
+.navbar-fixed-bottom .btn:hover {
+    background-color: #333;
+}
+
+/*alerts*/
+
+.alert-warning {
+background-color: #de9293;
+border-color: #ad6061;
+color: #222;
+}
+
+.alert {
+border: 1px solid transparent;
+}
+
+
+.product-variants a:hover {
+    background-color: #999;
+
+
+
+
+
+
+}
+
+@media only screen and (max-width : 320px) {
+
+	.container-view {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+	.header {
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	/*insert*/
+	
+    .panel-primary .panel-heading .panel-title  {
+        background-color: #ccc;
+        
+    }
+    .navbar-default .navbar-nav .open > a  {
+        background-color: #0e0e0e;
+    }
+	
+
+/*left panel nav */
+
+    .panel-nav a {
+        text-decoration: none;
+    }
+
+    .panel-nav a:hover {
+        text-decoration: none;
+        color: #666;
+        font-weight: bolder;
+    }
+
+.navbar-default  {
+    background-color: #0e0e0e;
+}
+
+.navbar .container .navbar-nav.pull-left li.fadeInLeft a i, .navbar .container-view .navbar-nav.pull-left li.fadeInLeft a i {
+    color: #fff;
+}
+
+
+.navbar-default .navbar-nav > .active > a:link {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #3a3b3b;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #0e0e0e;
+}
+
+.navbar-default .navbar-nav > .active > a:focus{
+    background-color: #3a3b3b;
+}
+
+.container .navbar-nav li a { 
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.container .navbar-nav li a:hover { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:active { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.container .navbar-nav li a:focus { 
+    background-color: #3a3b3b;
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        background-color: #3a3b3b;
+}
+
+/*button*/
+
+.btn-primary  {
+    background-color: #0e0e0e;
+}
+
+.btn-primary:hover  {
+    background-color: #3a3b3b;
+}
+
+/*submit*/
+
+.btn-success  {
+    background-color: #555;
+    border-color: #777;
+}
+.btn-success, .btn-success:hover  {
+    color: #FFFFFF;
+}
+
+.btn-success:hover  {
+    background-color: #222;
+    border-color: #555;
+}
+
+.btn-success:focus  {
+    background-color: #555;
+    border-color: #777;
+}
+
+/*error*/
+
+.btn-danger  {
+    border-color: #F00;
+}
+.btn-danger  {
+    background-color: #F00;
+}
+
+.btn-danger:hover {
+    background-color: #555;
+    border-color: #555;
+}
+
+/* cost */
+.text-success {
+    color: #222;
+}
+
+/* Checkout Button -link- */
+
+.btn-info {
+    background-color: #0e0e0e;
+    border-color: #0e0e0e;
+    color: #ffffff;
+}
+
+.btn-info:hover {
+    background-color: #3a3b3b;
+    border-color: #3a3b3b;
+    color: #ffffff;
+}
+
+/* misc and tidbits */
+
+.badge {
+    background-color: #3a3b3b;
+    color: #fff;
+}
+
+.btn-success .badge {
+    color: #222;
+}
+
+.navbar .container .navbar-nav li.active .fa-caret-down, .navbar .container-view .navbar-nav li.active .fa-caret-down {
+    color: #3a3b3b;
+}
+
+/*checkout--cart*/
+
+.text-info {
+    color: #343434;
+}
+
+.text-success {
+color: #343434;
+}
+
+.view-form-icon .quantity div input {
+    border-color: #dddddd;
+    color: #343434;
+    box-shadow: none;
+}
+
+.navbar-fixed-bottom .btn {
+    background-color: #666;
+}
+
+.navbar-fixed-bottom .btn-success {
+    background-color: #555;
+}
+
+.navbar-fixed-bottom .btn:hover {
+    background-color: #333;
+}
+
+/*alerts*/
+
+.alert-warning {
+background-color: #de9293;
+border-color: #ad6061;
+color: #222;
+}
+
+.alert {
+border: 1px solid transparent;
+}
+
+
+.product-variants a:hover {
+    background-color: #999;
+
+
+
+
+
+
+}
+
+
+
 
 
 
