@@ -1,222 +1,206 @@
 /* Custom CSS */
 
 	.container-view {
-		background-color: rgba(255, 255, 255, 0.5);
+		background-color: rgba(255, 255, 255, 0.5) !important;
 	}
 	.header {
-		background-color: rgba(255, 255, 255, 0.5);
+		background-color: rgba(255, 255, 255, 0.5) !important;
 	}
 
 	/*insert*/
 	
     .panel-primary .panel-heading .panel-title  {
-        background-color: #ccc;
+        background-color: #ccc !important;
         
     }
     .navbar-default .navbar-nav .open > a  {
-        background-color: #0e0e0e;
+        background-color: #0e0e0e !important;
     }
-
-.form-control {
-    
-}
-
-.form-control:focus {
-  border-color: #777;
-  outline: 0;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 102, 102, 0.6);
-  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 102, 102, 0.6);
-}
 	
 
 /*left panel nav */
 
     .panel-nav a {
-        text-decoration: none;
+        text-decoration: none !important;
     }
 
     .panel-nav a:hover {
-        text-decoration: none;
-        color: #666;
-        font-weight: bolder;
+        text-decoration: none !important;
+        color: #666 !important;
+        font-weight: bolder !important;
     }
 	
-	body {
-		/* background image full screen */
-		background-color: #ffffff ; /*url('../css/images/shutterstock_148368839.jpg') no-repeat center center fixed;*/
-	}
-
 .navbar-default  {
-    background-color: #0e0e0e;
+    background-color: #0e0e0e !important;
 }
 
 .navbar .container .navbar-nav.pull-left li.fadeInLeft a i, .navbar .container-view .navbar-nav.pull-left li.fadeInLeft a i {
-    color: #fff;
+    color: #fff !important;
 }
 
 
 .navbar-default .navbar-nav > .active > a:link {
-    background-color: #0e0e0e;
+    background-color: #0e0e0e !important;
 }
 
 .navbar-default .navbar-nav > .active > a:hover {
-    background-color: #3a3b3b;
+    background-color: #3a3b3b !important;
 }
 
 .navbar-default .navbar-nav > .active > a {
-    background-color: #0e0e0e;
+    background-color: #0e0e0e !important;
 }
 
 .navbar-default .navbar-nav > .active > a:focus{
-    background-color: #3a3b3b;
+    background-color: #3a3b3b !important;
 }
 
 .container .navbar-nav li a { 
-    background-color: #0e0e0e;
-    color: white;
+    background-color: #0e0e0e !important;
+    color: white !important;
 }
 
 .container .navbar-nav li a:hover { 
-    background-color: #3a3b3b;
-    color: white;
+    background-color: #3a3b3b !important;
+    color: white !important;
 }
 
 .container .navbar-nav li a:active { 
-    background-color: #3a3b3b;
-    color: white;
+    background-color: #3a3b3b !important;
+    color: white !important;
 }
 
 .container .navbar-nav li a:focus { 
-    background-color: #3a3b3b;
-    color: white;
+    background-color: #3a3b3b !important;
+    color: white !important;
 }
 
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-        background-color: #3a3b3b;
+        background-color: #3a3b3b !important;
 }
 
 /*button*/
 
 .btn-primary  {
-    background-color: #0e0e0e;
+    background-color: #0e0e0e !important;
 }
 
 .btn-primary:hover  {
-    background-color: #3a3b3b;
+    background-color: #3a3b3b !important;
 }
 
 /*submit*/
 
 .btn-success  {
-    background-color: #555;
-    border-color: #777;
+    background-color: #555 !important;
+    border-color: #777 !important;
 }
 .btn-success, .btn-success:hover  {
-    color: #FFFFFF;
+    color: #FFFFFF !important;
 }
 
 .btn-success:hover  {
-    background-color: #222;
-    border-color: #555;
+    background-color: #222 !important;
+    border-color: #555 !important;
 }
 
 .btn-success:focus  {
-    background-color: #555;
-    border-color: #777;
+    background-color: #555 !important;
+    border-color: #777 !important;
 }
 
 /*error*/
 
 .btn-danger  {
-    border-color: #F00;
+    border-color: #F00 !important;
 }
 .btn-danger  {
-    background-color: #F00;
+    background-color: #F00 !important;
 }
 
 .btn-danger:hover {
-    background-color: #555;
-    border-color: #555;
+    background-color: #555 !important;
+    border-color: #555 !important;
 }
 
 /* cost */
 .text-success {
-    color: #222;
+    color: #222 !important;
 }
 
 /* Checkout Button -link- */
 
 .btn-info {
-    background-color: #0e0e0e;
-    border-color: #0e0e0e;
+    background-color: #0e0e0e !important;
+    border-color: #0e0e0e !important;
     color: #ffffff;
 }
 
 .btn-info:hover {
-    background-color: #3a3b3b;
-    border-color: #3a3b3b;
-    color: #ffffff;
+    background-color: #3a3b3b !important;
+    border-color: #3a3b3b !important;
+    color: #ffffff !important;
 }
 
 /* misc and tidbits */
 
 .badge {
-    background-color: #3a3b3b;
-    color: #fff;
+    background-color: #3a3b3b !important;
+    color: #fff !important;
 }
 
 .btn-success .badge {
-    color: #222;
+    color: #222 !important;
 }
 
 .navbar .container .navbar-nav li.active .fa-caret-down, .navbar .container-view .navbar-nav li.active .fa-caret-down {
-    color: #3a3b3b;
+    color: #3a3b3b !important;
 }
 
 /*checkout--cart*/
 
 .text-info {
-    color: #343434;
+    color: #343434 !important;
 }
 
 .text-success {
-color: #343434;
+color: #343434 !important;
 }
 
 .view-form-icon .quantity div input {
-    border-color: #dddddd;
-    color: #343434;
-    box-shadow: none;
+    border-color: #dddddd !important;
+    color: #343434 !important;
+    box-shadow: none !important;
 }
 
 .navbar-fixed-bottom .btn {
-    background-color: #666;
+    background-color: #666 !important;
 }
 
 .navbar-fixed-bottom .btn-success {
-    background-color: #555;
+    background-color: #555 !important;
 }
 
 .navbar-fixed-bottom .btn:hover {
-    background-color: #333;
+    background-color: #333 !important;
 }
 
 /*alerts*/
 
 .alert-warning {
-background-color: #de9293;
-border-color: #ad6061;
-color: #222;
+background-color: #de9293 !important;
+border-color: #ad6061 !important;
+color: #222 !important;
 }
 
 .alert {
-border: 1px solid transparent;
+border: 1px solid transparent !important;
 }
 
 
 .product-variants a:hover {
-    background-color: #999;
+    background-color: #999 !important;
 
 option:focus {
-    background-color:red;
+    background-color:red !important;
 }
