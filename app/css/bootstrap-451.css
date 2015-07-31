@@ -1,4 +1,6 @@
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+* {display:none !important;}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
