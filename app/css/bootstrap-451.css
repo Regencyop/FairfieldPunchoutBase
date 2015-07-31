@@ -10705,6 +10705,29 @@ font-weight: bold;
 .product-variants a:hover {
     background-color: #999;
 
+@media (min-width: 768px) {
+    .container,
+    .container-view {
+        width: 730px;
+    }
+}
+@media (min-width: 992px) {
+    .container,
+    .container-view {
+        width: 950px;
+    }
+}
+@media (min-width: 1200px) {
+    .container,
+    .container-view {
+        width: 1150px;
+    }
+}
+
+
+
+
+
 
 
 
