@@ -10425,7 +10425,8 @@ table[datepicker] {
 	
 	body {
 		/* background image full screen */
-		background-color: #ffffff ; /*url('../css/images/shutterstock_148368839.jpg') no-repeat center center fixed;*/
+		/* background: url('http://www.four51.com/Themes/Custom/df7e2b71-6326-4da6-a24f-554d7d910faf/backgroundImage/1920x1080-dentaloffice-SAMSONONLY.jpg') no-repeat center center fixed;  */
+		background-color: #ffffff ; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
