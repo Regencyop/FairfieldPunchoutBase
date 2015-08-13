@@ -8734,7 +8734,7 @@ table[datepicker] {
 	.jumbotron .container h2.thumbnail {
 		padding: 0px 0;
 		margin-bottom: 0;
-	
+		background-color: rgba(255,255,255,1);
 	}
 	/* companyImage -- BB*/
 	.jumbotron h2 img {
