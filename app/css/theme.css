@@ -8739,7 +8739,7 @@ table[datepicker] {
 	/* companyImage -- BB*/
 	.jumbotron h2 img {
 	max-height: 100%;
-    width: 1210px;
+    	background-color: white;
     }
 	
 	.jumbotron .container h2.thumbnail span {
