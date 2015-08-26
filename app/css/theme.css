@@ -3037,7 +3037,7 @@ input[type="button"].btn-block {
   margin: 2px 0 0;
   list-style: none;
   font-size: 14px;
-  background-color: #ffffff;
+  background-color: #3A3B3B;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -3045,6 +3045,17 @@ input[type="button"].btn-block {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   background-clip: padding-box;
 }
+
+.dropdown-menu a{
+    background-color: #3A3B3B !important;
+}
+
+.dropdown-menu a:hover{
+    background-color: #3A3B3B !important;
+    font-size: 105%;
+    text-decoration: none;
+}
+
 .dropdown-menu.pull-right,
 .dropdown-mega .dropdown-menu.pull-right {
   right: 0;
@@ -9086,8 +9097,17 @@ font-weight: bold;
 }
 
 
+/*
+.dropdown-menu a{
+    background-color: #3A3B3B !important;
+}
 
-
+.dropdown-menu a:hover{
+    background-color: #3A3B3B !important;
+    font-size: 105%;
+    text-decoration: none;
+}
+*/
 
 
 
